@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jinxmusic/static/css/main.7b72f863.chunk.css",
+    "main.js": "/jinxmusic/static/js/main.11cca4e8.chunk.js",
+    "main.js.map": "/jinxmusic/static/js/main.11cca4e8.chunk.js.map",
+    "runtime-main.js": "/jinxmusic/static/js/runtime-main.287b36e3.js",
+    "runtime-main.js.map": "/jinxmusic/static/js/runtime-main.287b36e3.js.map",
+    "static/css/2.f6ca9e3c.chunk.css": "/jinxmusic/static/css/2.f6ca9e3c.chunk.css",
+    "static/js/2.12f03935.chunk.js": "/jinxmusic/static/js/2.12f03935.chunk.js",
+    "static/js/2.12f03935.chunk.js.map": "/jinxmusic/static/js/2.12f03935.chunk.js.map",
+    "static/js/3.cf02fac2.chunk.js": "/jinxmusic/static/js/3.cf02fac2.chunk.js",
+    "static/js/3.cf02fac2.chunk.js.map": "/jinxmusic/static/js/3.cf02fac2.chunk.js.map",
+    "index.html": "/jinxmusic/index.html",
+    "static/css/2.f6ca9e3c.chunk.css.map": "/jinxmusic/static/css/2.f6ca9e3c.chunk.css.map",
+    "static/css/main.7b72f863.chunk.css.map": "/jinxmusic/static/css/main.7b72f863.chunk.css.map",
+    "static/js/2.12f03935.chunk.js.LICENSE.txt": "/jinxmusic/static/js/2.12f03935.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.287b36e3.js",
+    "static/css/2.f6ca9e3c.chunk.css",
+    "static/js/2.12f03935.chunk.js",
+    "static/css/main.7b72f863.chunk.css",
+    "static/js/main.11cca4e8.chunk.js"
+  ]
+}
