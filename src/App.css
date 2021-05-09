@@ -1,0 +1,164 @@
+.app{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+.search-box{
+    width: 600px;
+    visibility: visible;
+    letter-spacing: 1px;
+    padding: 1em;
+    height: 5px;
+ }
+ .searchform{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 20%;
+}
+
+.search-bar{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1em;
+    width: 70%;
+    padding: 1em;
+    height: 10px;
+}
+
+
+.closeicon {
+   color: black;
+   min-width: 50%;
+   font-size: xx-large;
+  }
+
+.songlist{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(85, 84, 84);
+    margin: 10px;
+    margin-right: 10px;
+    background:white;
+    align-items: center;
+    min-width: 20%;
+}
+.songname{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    padding: 15px;
+    width: 97%;
+    height: 335px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+}
+.songlist:hover{
+    background-color: lightyellow ;
+    transform: scale(1.1);
+}
+.allsongs{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+    font-family: cursive;
+}
+
+.picture{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: black;
+    box-shadow: 0px 5px 20px rgb(85, 84, 84);
+}
+.playicon{
+    color: darkgreen;
+    width: 50px;
+    font-size: xx-large;
+    min-width: 40%;
+}
+.indisong{
+    font-size: x-large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(11, 104, 96);
+}
+
+.player{
+    position: sticky;
+    color: lightskyblue;
+}
+.hiddentitle{
+    visibility: hidden;
+}
+
+.titleone{
+   
+    font-size: 100%;
+    font-family: Impact, fantasy;
+    font-weight: 100;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    
+}
+.title{
+    font-size: 3em;
+    color:black;
+}
+
+
+
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.ip{
+    background: 
+    linear-gradient(135deg, black 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, black 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, black 25%, transparent 25%),
+    linear-gradient(45deg, black 25%, transparent 25%);	
+    background-size: 2em 2em;
+    background-color: #232323;
+    min-height: 200%;
+}
+.welcome{
+    color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.username{
+    color:blanchedalmond;
+    font-family: cursive;
+}
+
+.password{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+.loginbtn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 24px;
+    color: black;
+}
+
+
+  
+
+
+
